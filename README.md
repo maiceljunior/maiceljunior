@@ -8,7 +8,7 @@
 
 ✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil e me formo em novembro de 2022.
 
-📄 Você pode ver um resumo do meu portfolio em [Resumo](https://maacjuniorads.wixsite.com/portfolio).
+📄 Você pode ver um resumo do meu portfolio em [Resumo](https://maicel-junior-portfolio.vercel.app/).
 
 📫 Sinta-se a vontade para entrar em contato comigo em:
 
@@ -43,6 +43,7 @@
 ![Styled Components](https://img.shields.io/badge/Styled--Components-444?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React--Hook--Form-gold?style=for-the-badge&logo=react&logoColor=black)
 ![React Hooks](https://img.shields.io/badge/React--Hooks-red?style=for-the-badge&logo=react&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-black?style=for-the-badge&logo=react&logoColor=white)
 ![Typical](https://img.shields.io/badge/Typical-352341?style=for-the-badge&logo=npm&logoColor=black)
 ![Toastify](https://img.shields.io/badge/Toastify-352341?style=for-the-badge&logo=react&logoColor=white)
@@ -52,6 +53,8 @@
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
+![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
 
 ## 🧑🏻‍💻 Tools & Platform
 
@@ -70,6 +73,7 @@
 ![Miro](https://img.shields.io/badge/Miro-blue.svg?&style=for-the-badge&logo=miro&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-red.svg?&style=for-the-badge&logo=trello&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-560e7c.svg?&style=for-the-badge&logo=insomnia&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ## 💻 Workspace
 
