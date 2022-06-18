@@ -48,7 +48,7 @@
 ![Toastify](https://img.shields.io/badge/Toastify-352341?style=for-the-badge&logo=react&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-purple?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🧱 Libraries & Framework - Back-End
+## 🧱 Libraries & Framework - Back End
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
