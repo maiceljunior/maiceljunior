@@ -4,13 +4,11 @@
 
 # 👨🏻‍💻 &nbsp;Sobre mim:
 
-💭 &nbsp; Me formei em Análise e Desenvolvimento de Sistemas no final de 2021 e no inicio de novembro do mesmo ano, iniciei os estudos em desenvolvimento web full stack na Kenzie Academy Brasil. Gosto de resolver problemas e desenvolver projetos, por isso escolhi a área da tecnologia. No meu tempo livre, procuro sempre estar junto a minha família e as pessoas que gosto, também me interesso na pratica de esportes diversos. Sou uma pessoa que esta sempre aberta a ouvir e receber ideias. Sinto facilidade em ser compreensivo e tolerante com os outros e suas opiniões.
+🎓 Me formei na Universidade Cruzeiro do Sul em (Análise e Desenvolvimento de Sistemas) em Dezembro de 2021.
 
-🎓&nbsp; Me formei na Universidade Cruzeiro do Sul em (Análise e Desenvolvimento de Sistemas) em Dezembro de 2021.
+✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil e me formo em novembro de 2022.
 
-✍🏻 &nbsp; Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil e me formo em novembro de 2022.
-
-📄 &nbsp;Você pode ver um resumo do meu portfolio em [Resumo](https://maacjuniorads.wixsite.com/portfolio).
+📄 Você pode ver um resumo do meu portfolio em [Resumo](https://maacjuniorads.wixsite.com/portfolio).
 
 📫 Sinta-se a vontade para entrar em contato comigo em:
 
