@@ -57,7 +57,8 @@
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Json Web Tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
-![TypeORM](https://img.shields.io/badge/TypeORM-%23323330.svg?style=for-the-badge&logo=typeorm&logoColor=%23F7DF1E)
+![TypeORM](https://img.shields.io/badge/TypeORM-red?style=for-the-badge&logo=typeorm&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
 
 ## 🧑🏻‍💻 Tools & Platform
 
