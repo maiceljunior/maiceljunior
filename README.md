@@ -1,28 +1,19 @@
-# Olá, me chamo Maicel Junior! <img src="./src/wave.gif" width="30px" height="30px">
+# 👨🏻‍💻&nbsp;Sobre mim:
 
-<a href="https://maicel-junior-portfolio.vercel.app/"><img src="./src/header_.png"></a>
+<li>📖 Formado em <a href="https://drive.google.com/file/d/1X5NQyIvK-J3mIT_iNTPmbwB4VcCtIFPJ/view?usp=sharing" target="_blank">Análise e Desenvolvimento de Sistemas</a>.</li>
 
-# 👨🏻‍💻 &nbsp;Sobre mim:
+<li>📘 Formado no curso de <a href="https://drive.google.com/file/d/1539OjFa1wqg-ABlAFm84gWHEI2Hl5MyC/view?usp=sharing" target="_blank">Desenvolvimento Front End </a> na Kenzie Academy Brasil.</li>
 
-🎓 Me formei na Universidade Cruzeiro do Sul em (Análise e Desenvolvimento de Sistemas) em Dezembro de 2021.
+<li>🖥 Você pode ver um resumo do meu portfolio em <a href="https://maicel-junior-portfolio.vercel.app/" target="_blank">Resumo</a>.</li>
 
-✍🏻 Estou cursando Desenvolvimento Web Full Stack na Kenzie Academy Brasil e me formo em novembro de 2022.
+<li>📫 Sinta-se a vontade para entrar em contato comigo por <a href="https://www.linkedin.com/in/maiceljunior/" target="_blank">aqui</a>.</li>
 
-📄 Você pode ver um resumo do meu portfolio em [Resumo](https://maicel-junior-portfolio.vercel.app/).
+<br/>
+<img src="https://maicel-junior-portfolio.vercel.app/static/media/working.30ba7d48139fbe68f405.gif" />
+<br/>
+<br/>
 
-📫 Sinta-se a vontade para entrar em contato comigo em:
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/maiceljunior/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        <a href="mailto:junioraraujc@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
----
-
-## 🚀 Languages
+# 🚀 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-0081CB?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,11 +22,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🗃 Databases
+<br />
+
+# 🗃 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## ✨ Libraries & Framework - Front End
+<br />
+
+# ✨ Libraries & Framework - Front End
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-27338e?style=for-the-badge&logo=redux&logoColor=white)
@@ -51,7 +46,9 @@
 ![Toastify](https://img.shields.io/badge/Toastify-352341?style=for-the-badge&logo=react&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-purple?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🧱 Libraries & Framework - Back End
+<br/>
+
+# 🧱 Libraries & Framework - Back End
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white)
@@ -60,7 +57,9 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-red?style=for-the-badge&logo=typeorm&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
 
-## 🧑🏻‍💻 Tools & Platform
+<br />
+
+# 🧑🏻‍💻 Tools & Platform
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -80,28 +79,14 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
 
-## 💻 Workspace
+<br />
+
+# 💻 Workspace
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📈 Status
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maiceljunior&show_icons=true&hide_border=true&theme=great-gatsby" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maiceljunior&hide_border=true&theme=great-gatsby" />
-</p>
-
-## 🔝 Most Used Languages
-
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiceljunior&layout=compact&hide_border=true&theme=great-gatsby" />
-
----
-
-![Maicel Junior's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=maiceljunior&hide_border=true&theme=redical)
-
----
-
 </div>
 
 ![Snake animation](https://github.com/maiceljunior/maiceljunior/blob/output/github-contribution-grid-snake.svg)
