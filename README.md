@@ -10,8 +10,6 @@
 
 <br/>
 <img src="https://maicel-junior-portfolio.vercel.app/static/media/working.30ba7d48139fbe68f405.gif" />
-<br/>
-<br/>
 
 # 🚀 Languages
 
@@ -22,13 +20,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br />
-
 # 🗃 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br />
 
 # ✨ Libraries & Framework - Front End
 
@@ -46,8 +40,6 @@
 ![Toastify](https://img.shields.io/badge/Toastify-352341?style=for-the-badge&logo=react&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-purple?style=for-the-badge&logo=npm&logoColor=white)
 
-<br/>
-
 # 🧱 Libraries & Framework - Back End
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,8 +48,6 @@
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-%23323330.svg?style=for-the-badge&logo=nodedotjs&logoColor=%23F7DF1E)
 ![TypeORM](https://img.shields.io/badge/TypeORM-red?style=for-the-badge&logo=typeorm&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-blue?style=for-the-badge&logo=django&logoColor=%23F7DF1E)
-
-<br />
 
 # 🧑🏻‍💻 Tools & Platform
 
@@ -78,8 +68,6 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-560e7c.svg?&style=for-the-badge&logo=insomnia&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-
-<br />
 
 # 💻 Workspace
 
