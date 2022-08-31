@@ -1,12 +1,12 @@
 # 👨🏻‍💻&nbsp;Sobre mim:
 
-<li>📖 Formado em <a href="https://drive.google.com/file/d/1X5NQyIvK-J3mIT_iNTPmbwB4VcCtIFPJ/view?usp=sharing" target="_blank">Análise e Desenvolvimento de Sistemas</a>.</li>
+<li>📖 Formado em <a href="https://drive.google.com/file/d/1X5NQyIvK-J3mIT_iNTPmbwB4VcCtIFPJ/view?usp=sharing" rel="noopener">Análise e Desenvolvimento de Sistemas</a>.</li>
 
-<li>📘 Formado no curso de <a href="https://drive.google.com/file/d/1539OjFa1wqg-ABlAFm84gWHEI2Hl5MyC/view?usp=sharing" target="_blank">Desenvolvimento Front End </a> na Kenzie Academy Brasil.</li>
+<li>📘 Formado no curso de <a href="https://drive.google.com/file/d/1539OjFa1wqg-ABlAFm84gWHEI2Hl5MyC/view?usp=sharing" rel="noopener">Desenvolvimento Front End </a> na Kenzie Academy Brasil.</li>
 
-<li>🖥 Você pode ver um resumo do meu portfolio em <a href="https://maicel-junior-portfolio.vercel.app/" target="_blank">Resumo</a>.</li>
+<li>🖥 Você pode ver um resumo do meu portfolio em <a href="https://maicel-junior-portfolio.vercel.app/" rel="noopener">Resumo</a>.</li>
 
-<li>📫 Sinta-se a vontade para entrar em contato comigo por <a href="https://www.linkedin.com/in/maiceljunior/" target="_blank">aqui</a>.</li>
+<li>📫 Sinta-se a vontade para entrar em contato comigo por <a href="https://www.linkedin.com/in/maiceljunior/" rel="noopener">aqui</a>.</li>
 
 <br/>
 <img src="https://maicel-junior-portfolio.vercel.app/static/media/working.30ba7d48139fbe68f405.gif" />
