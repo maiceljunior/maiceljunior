@@ -15,7 +15,7 @@
 ```ts
 const maicel = {
   cargo:     "Desenvolvedor Full Stack Pleno",
-  empresa:   "SPRO IT Solutions · NTT DATA",
+  empresa:   "SPRO, an NTT DATA Company",
   setor:     "Agronegócio sobre SAP S/4HANA",
   stack:     ["SAPUI5", "Fiori", "ABAP", "React", "Node", "SAP BTP"],
   estudando: "Pós em Arquitetura de Sistemas e Engenharia de Software",
